@@ -1,11 +1,11 @@
-## Python Basics: Guessing Game
+# Python Basics: Guessing Game
 This repository contains basic Python projects, starting with a simple number guessing game.
 
-# Guessing Game
+## Guessing Game
 Description
 The 'Guessing Game' is a classic game where the computer picks a random number between 1 and 100, and the player tries to guess it. The game provides hints ('Too high!' or 'Too low!') until the player guesses the correct number.
 
-# How to Run
+## How to Run
 Clone the repository (if on GitHub):
 
 git clone <repository-url>
@@ -14,7 +14,7 @@ Open the Python file or Colab Notebook: If you're in a Colab notebook, ensure th
 
 Execute the code: If you have the code in a .py file, run it from your terminal:
 
- # python your_game_file.py
+ ## python your_game_file.py
 In a Colab notebook, simply run the cell containing the guess_the_number() function call.
 
 Play the game: Follow the prompts to enter your guesses. The game will tell you if your guess is too high, too low, or correct.
